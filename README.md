@@ -7,6 +7,7 @@ This simple website uses S3 bucket to store the website static content, e.g html
 I have used Lambda function to deliver a dynamic content which is been triggered by the API gateway.
 Route53 has been used to get domain name for the website.
 
+![](images/Serverless-Application-Flow.jpg)
 
 Steps -
 
